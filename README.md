@@ -1,21 +1,21 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#fca311">Vibhanshu Kumar Subham</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#fca311;">Vibhanshu Kumar Shubham</span></h1>
 
 <p align="center">
-🚀 DevOps & AI Engineer at Gaincafe Technologies <br>
+🚀 <b>DevOps & AI Engineer</b> at Gaincafe Technologies <br>
 💡 Automation | ☁️ AWS | 🤖 AI | 💻 LeetCode Enthusiast <br>
-📍 From Muzaffarpur, Bihar | 🌐 Living in Jaipur, Rajasthan
+📍 Muzaffarpur, Bihar | 🌐 Living in Jaipur, Rajasthan
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-*Languages:* Python, Java, SQL, Bash, C++  
-*Cloud & DevOps:* AWS EC2, RDS, Beanstalk, Jenkins, GitHub Actions, Docker, Linux  
-*AI/ML:* Python (Pandas, NumPy), Model Integration  
-*Tools:* Git, MySQL Workbench, Excel, Canva, Postman  
-*IDEs:* VS Code, IntelliJ IDEA, Jupyter Notebook  
-*Other Skills:* Problem-solving, Team Collaboration, Time Management
+**Languages:** Python, Java, SQL, Bash, C++  
+**Cloud & DevOps:** AWS EC2, RDS, Beanstalk, Jenkins, GitHub Actions, Docker, Linux  
+**AI/ML:** Python (Pandas, NumPy), Model Integration  
+**Tools:** Git, MySQL Workbench, Excel, Canva, Postman  
+**IDEs:** VS Code, IntelliJ IDEA, Jupyter Notebook  
+**Soft Skills:** Problem-solving, Team Collaboration, Time Management
 
 ---
 
@@ -23,24 +23,27 @@
 
 | Project | Description |
 |--------|-------------|
+| [🎵 Music-detailer](https://github.com/Theubaa/Music-detailer) | Analyzes songs to extract BPM, key, and more |
+| [🎶 Essentia-JS](https://github.com/Theubaa/Essentia-JS) | JavaScript library for audio feature extraction |
+| [⚙ MCP-Platform](https://github.com/Theubaa/MCP-Platform) | TypeScript-based platform for managing modular components |
+| [📄 docusourus1](https://github.com/Theubaa/docusourus1) | Documentation site powered by Docusaurus |
+| [🖼 images-uploads-for-kenno](https://github.com/Theubaa/images-uploads-for-kenno) | Image upload management system |
+| [💼 Vibhanshu-Portfolio](https://github.com/Theubaa/Vibhanshu-Portfolio) | My personal developer portfolio |
 | [🔁 N8n-Docker](https://github.com/Theubaa/N8n-) | Workflow automation using n8n with Docker |
-| [⚙ Frappe-bench-setup](https://github.com/Theubaa/Frappe-bench-setup) | Complete setup of ERPNext stack using Frappe Bench |
-| [🧑‍💻 Portfolio_Vibhanshu](https://github.com/Theubaa/Portfolio_Vibhanshu) | My first developer portfolio – frontend focused |
-| [☁ AWS-Beanstalk](https://github.com/Theubaa/AWS-Beanstalk) | How to deploy scalable apps using AWS Beanstalk |
+| [☁ AWS-Beanstalk](https://github.com/Theubaa/AWS-Beanstalk) | Deploy scalable apps using AWS Beanstalk |
 | [🐍 Snake using Python](https://github.com/Theubaa/Snake-using-python) | Classic snake game built with Python |
-| [🌍 Wordpress-Setup](https://github.com/Theubaa/Wordpress-Setup) | WordPress hosting on EC2, Apache, and RDS |
 
 ---
 
 ## 🎓 Education
 
-🎓 *B.Tech in Computer Science & Engineering*  
+🎓 **B.Tech in Computer Science & Engineering**  
 📍 Global Institute of Technology, Jaipur  
 🗓 2021 – 2025  
 
-🎓 *Diploma in Instrumentation & Control Engineering*  
+🎓 **Diploma in Instrumentation & Control Engineering**  
 📍 Sant Longowal Institute of Engineering & Technology, Punjab  
-🗓 2017 – 2021
+🗓 2017 – 2021  
 
 ---
 
@@ -52,21 +55,22 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let’s Connect
 
-- 📫 Email: vibhanshukumarshubham46@gmail.com  
-- 🌐 Portfolio: [theubaa.github.io/POrtfolio](https://theubaa.github.io/POrtfolio/)  
-- 💼 LinkedIn: [linkedin.com/in/vibhanshu-kumar-subham-737508250](https://linkedin.com/in/vibhanshu-kumar-subham-737508250)  
-- 📸 Instagram: [@the_ubaa](https://www.instagram.com/the_ubaa/)  
+- 📫 **Email:** vibhanshukumarshubham46@gmail.com  
+- 🌐 **Portfolio:** [theubaa.github.io/POrtfolio](https://theubaa.github.io/POrtfolio/)  
+- 💼 **LinkedIn:** [linkedin.com/in/vibhanshu-kumar-subham-737508250](https://linkedin.com/in/vibhanshu-kumar-subham-737508250)  
+- 📸 **Instagram:** [@the_ubaa](https://www.instagram.com/the_ubaa/)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vibhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theubaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theubaa&layout=compact&theme=radical)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Theubaa&show_icons=true&theme=radical" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theubaa&layout=compact&theme=radical" height="165">
+</p>
 
 ---
 
-“Innovate, Automate, Deploy – Repeat.”
+<p align="center"><b>“Innovate, Automate, Deploy – Repeat.”</b></p>
