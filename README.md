@@ -10,8 +10,6 @@
 
 ## 🛠 Tech Arsenal
 
-## 🛠 Tech Arsenal
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -60,13 +58,19 @@
 
 ## 🎓 Education
 
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 Global Institute of Technology, Jaipur  
-🗓 2021 – 2025  
-
-🎓 **Diploma in Instrumentation & Control Engineering**  
-📍 Sant Longowal Institute of Engineering & Technology, Punjab  
-🗓 2017 – 2021  
+<ul>
+  <li>
+    <strong>🎓 B.Tech in Computer Science & Engineering</strong><br>
+    📍 Global Institute of Technology, Jaipur<br>
+    📅 2021 – 2025
+  </li>
+  <br>
+  <li>
+    <strong>🎓 Diploma in Instrumentation & Control Engineering</strong><br>
+    📍 Sant Longowal Institute of Engineering & Technology, Punjab<br>
+    📅 2017 – 2021
+  </li>
+</ul>
 
 ---
 
