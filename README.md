@@ -1,103 +1,99 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#fca311;">Vibhanshu Kumar Shubham</span></h1>
+<!--
+  ✨ GitHub Profile README – Vibhanshu Kumar Shubham ✨
+-->
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vibhanshu Kumar Shubham</span></h1>
+
+<h3 align="center">🚀 DevOps & AI Engineer | Cloud • Automation • ML • RAG • CI/CD</h3>
 
 <p align="center">
-🚀 <b>DevOps & AI Engineer</b> at Gaincafe Technologies <br>
-💡 Automation | ☁️ AWS | 🤖 AI | 💻 LeetCode Enthusiast <br>
-📍 Muzaffarpur, Bihar | 🌐 Living in Jaipur, Rajasthan
+  <a href="https://github.com/Theubaa"><img src="https://img.shields.io/github/followers/Theubaa?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://www.linkedin.com/in/vibhanshu-kumar-shubham-737056230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/></a>
+  <a href="mailto:vibhanshushubham.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"/></a>
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI/ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & IDEs**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 💡 About Me  
+💻 DevOps & AI Engineer at **Gaincafe Technologies Pvt. Ltd.**  
+🧠 Passionate about **Automation, Cloud, AI Integration, and System Optimization**  
+🎯 Focused on building scalable and intelligent systems using **AWS, Docker, Jenkins, and FastAPI**  
+🌱 Currently exploring **LangChain, MLOps, and RAG-based chatbots**  
+📫 Reach me at: **vibhanshushubham.dev@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+### 🧰 Tech Arsenal  
+
+#### 💬 Languages  
+`Python` · `Java` · `SQL` · `Bash` · `C++`
+
+#### ☁️ Cloud & DevOps  
+`AWS` · `Docker` · `Jenkins` · `GitHub Actions` · `Linux` · `Nginx`
+
+#### 🤖 AI / ML  
+`LangChain` · `HuggingFace` · `Machine Learning` · `Deep Learning` · `OpenAI`
+
+#### 🛠️ Tools & IDEs  
+`VS Code` · `IntelliJ IDEA` · `Postman` · `PyCharm` · `Excel` · `Git`
+
+---
+
+### 🚀 Featured Projects  
 
 | Project | Description |
-|--------|-------------|
-| [🎵 Music-detailer](https://github.com/Theubaa/Music-detailer) | Analyzes songs to extract BPM, key, and more |
-| [🎶 Essentia-JS](https://github.com/Theubaa/Essentia-JS) | JavaScript library for audio feature extraction |
-| [⚙ MCP-Platform](https://github.com/Theubaa/MCP-Platform) | TypeScript-based platform for managing modular components |
-| [📄 docusourus1](https://github.com/Theubaa/docusourus1) | Documentation site powered by Docusaurus |
-| [🖼 images-uploads-for-kenno](https://github.com/Theubaa/images-uploads-for-kenno) | Image upload management system |
-| [💼 Vibhanshu-Portfolio](https://github.com/Theubaa/Vibhanshu-Portfolio) | My personal developer portfolio |
-| [🔁 N8n-Docker](https://github.com/Theubaa/N8n-) | Workflow automation using n8n with Docker |
-| [☁ AWS-Beanstalk](https://github.com/Theubaa/AWS-Beanstalk) | Deploy scalable apps using AWS Beanstalk |
-| [🐍 Snake using Python](https://github.com/Theubaa/Snake-using-python) | Classic snake game built with Python |
+|----------|-------------|
+| 🧠 [MuseTalk Setup](https://github.com/Theubaa/MuseTalk) | Run MuseTalk for AI-powered talking avatars on Windows |
+| 🤖 [FastAPI Color Detection](https://github.com/Theubaa/Color-Detection-App) | Real-time color detection using FastAPI + WebSockets |
+| 🌐 [Vibhanshu Portfolio](https://github.com/Theubaa/Vibhanshu-Portfolio) | Personal portfolio built with HTML, CSS, JS, and Bootstrap |
+| 🧩 [AWS-Beanstalk-App](https://github.com/Theubaa/AWS-Beanstalk) | Deploy scalable apps using AWS Elastic Beanstalk |
+| 🕹️ [Snake Game Python](https://github.com/Theubaa/Snake-using-python) | Classic snake game built with Python |
+| ⚙️ [Nifi-Docker](https://github.com/Theubaa/Nifi-Docker) | Workflow automation using Apache NiFi with Docker |
 
 ---
 
-## 🎓 Education
+### 🎓 Education  
 
-<ul>
-  <li>
-    <strong>🎓 B.Tech in Computer Science & Engineering</strong><br>
-    📍 Global Institute of Technology, Jaipur<br>
-    📅 2021 – 2025
-  </li>
-  <br>
-  <li>
-    <strong>🎓 Diploma in Instrumentation & Control Engineering</strong><br>
-    📍 Sant Longowal Institute of Engineering & Technology, Punjab<br>
-    📅 2017 – 2021
-  </li>
-</ul>
+🎓 **B.Tech in Computer Science & Engineering**  
+*Global Institute of Technology, Jaipur (2021 – 2025)*  
+
+🎓 **Diploma in Instrumentation & Control Engineering**  
+*Government Polytechnic Bathinda (2017 – 2021)*  
 
 ---
 
-## 🏆 Certifications
-
-- ✅ Python, Java & SQL – [HackerRank](https://www.hackerrank.com/vibhanshukumarshubham46)  
-- 🐧 Linux – Learn & Build  
-- 🔐 Introduction to Cyber Security – Infosys Springboard  
-
----
-
-## 🔗 Let’s Connect
-
-- 📫 **Email:** vibhanshukumarshubham46@gmail.com  
-- 🌐 **Portfolio:** [theubaa.github.io/POrtfolio](https://theubaa.github.io/POrtfolio/)  
-- 💼 **LinkedIn:** [linkedin.com/in/vibhanshu-kumar-subham-737508250](https://linkedin.com/in/vibhanshu-kumar-subham-737508250)  
-- 📸 **Instagram:** [@the_ubaa](https://www.instagram.com/the_ubaa/)  
+### 🏅 Certifications  
+- Python, Java via **HackerRank**  
+- Linux from **Red Hat**  
+- Introduction to Cyber Security – **Infosys Springboard**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Theubaa&show_icons=true&theme=radical" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theubaa&layout=compact&theme=radical" height="165">
+### 🤝 Connect With Me  
+<p align="left">
+  <a href="mailto:vibhanshushubham.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vibhanshu-kumar-shubham-737056230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Theubaa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/the_ubaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"><b>“Innovate, Automate, Deploy – Repeat.”</b></p>
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Theubaa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Theubaa&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theubaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Quote I Follow  
+> *"Innovate, Automate, Deploy — Repeat."* ⚙️
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** 🌟  
